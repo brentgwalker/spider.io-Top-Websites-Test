@@ -1,0 +1,318 @@
+// List of bugs occurring on top 100000 websites.
+// Format: Name of bug -- Bug owner website -- Number of sites bug appears on.
+Google Analytics -- http://www.google.com/intl/en/analytics/index.html -- 1000000
+Google Adsense -- http://www.google.com/intl/en/ads -- 500000
+Facebook Connect -- http://www.facebook.com/ -- 400000
+Google +1 -- http://www.google.com -- 400000
+Quantcast -- http://www.quantcast.com -- 300000
+AddThis -- http://www.addthis.com -- 200000
+ScoreCard Research Beacon -- http://www.fullcirclestudies.com/Home.aspx -- 200000
+Twitter Button -- http://twitter.com/widgets -- 200000
+Google FriendConnect -- http://www.google.com -- 100000
+Wordpress Stats -- http://www.wordpress.com -- 100000
+Twitter Badge -- http://twitter.com/widgets -- 90000
+LiveInternet -- http://www.liveinternet.ru/ -- 70000
+AppNexus -- http://www.appnexus.com -- 60000
+Yandex.Metrics -- http://www.yandex.com/ -- 50000
+Rambler -- http://www.rambler.ru/ -- 50000
+Piwik Analytics -- http://piwik.org/ -- 30000
+GDN Notice -- http://www.google.com/ads/displaynetwork/ -- 30000
+Google Custom Search Engine -- http://www.google.com -- 30000
+SkimLinks -- http://www.skimlinks.com/ -- 30000
+SiteMeter -- http://www.sitemeter.com -- 30000
+StumbleUpon Widgets -- http://www.stumbleupon.com/ -- 20000
+VKontakte Widgets -- http://vk.com/ -- 20000
+AdMeld -- http://www.admeld.com/ -- 20000
+Clicky -- http://getclicky.com/ -- 20000
+Gemius -- http://gemius.pl/pl/main -- 20000
+Histats -- http://www.histats.com -- 20000
+Lockerz Share -- http://share.lockerz.com/ -- 20000
+LinkedIn Widgets -- http://www.linkedin.com/ -- 20000
+Tynt Insight -- http://www.tynt.com/ -- 20000
+Evidon Notice -- http://www.evidon.com -- 20000
+AdBrite -- http://www.adbrite.com/ -- 10000
+CPX Interactive -- http://www.cpxinteractive.com -- 10000
+Dynamic Logic -- http://www.millwardbrown.com/Home.aspx -- 10000
+Tribal Fusion -- http://www.exponential.com/ -- 10000
+Yandex.API -- http://www.yandex.com/ -- 10000
+Commission Junction -- http://www.cj.com/ -- 10000
+InfoLinks -- http://www.infolinks.com/ -- 10000
+Feedjit -- http://feedjit.com/ -- 10000
+Media6Degrees -- http://m6d.com/ -- 10000
+Rubicon -- http://www.rubiconproject.com -- 10000
+eXelate -- http://exelate.com/new/ -- 10000
+FriendFinder Network -- http://www.ffn.com/ -- 10000
+Digg Widget -- http://about.digg.com/widget-generator -- 10000
+eXTReMe Tracker -- http://www.extremetracking.com/ -- 10000
+Wibiya Toolbar -- http://www.wibiya.com/ -- 10000
+New Relic -- http://newrelic.com/ -- 10000
+TargusInfo -- http://www.targusinfo.com/ -- 10000
+FeedBurner -- http://www.google.com -- 10000
+SpecificClick -- http://www.specificmedia.com/ -- 10000
+TweetMeme -- http://tweetmeme.com/ -- 10000
+Chango -- http://www.chango.com/ -- 10000
+MediaMath -- http://www.mediamath.com/ -- 10000
+EroAdvertising -- http://www.ero-advertising.com/ -- 10000
+Crazy Egg -- http://www.crazyegg.com/ -- 10000
+AdSafe -- http://www.adsafemedia.com/ -- 10000
+Zedo -- http://www.zedo.com -- 10000
+HotLog -- http://hotlog.ru/ -- 9000
+33Across -- http://33across.com/ -- 9000
+AWeber -- http://www.aweber.com/ -- 9000
+NextAction -- http://www.datalogix.com/ -- 8000
+bigmir -- http://www.bigmir.net/ -- 8000
+SMART AdServer -- http://smartadserver.com/ -- 8000
+LinkShare -- http://www.linkshare.com/ -- 8000
+DSNR Media Group -- http://www.dsnrmg.com/  -- 8000
+Google Website Optimizer -- http://www.google.com/intl/en/analytics/index.html -- 8000
+Lotame -- http://www.lotame.com -- 8000
+AMP Platform -- http://www.collective.com -- 7000
+Woopra -- None listed -- 7000
+AdRiver -- http://www.adriver.ru/ -- 7000
+ExoClick -- http://exoclick.com/ -- 6000
+Alexa Widget -- http://www.alexa.com/ -- 6000
+AdOcean -- http://adocean.cz/en -- 6000
+MixPanel -- http://mixpanel.com/ -- 6000
+WidgetBox -- http://www.widgetbox.com/ -- 6000
+NetworkedBlogs -- http://w.networkedblogs.com/ -- 6000
+TNS -- http://www.tnsglobal.com/ -- 6000
+Openstat -- https://www.openstat.ru/ -- 6000
+Outbrain -- http://www.outbrain.com/ -- 6000
+Tacoda -- http://advertising.aol.com/ -- 6000
+Adnetik -- http://www.adnetik.com/ -- 6000
+ClustrMaps -- http://www.clustrmaps.com/ -- 6000
+AlmondNet -- http://www.almondnet.com/ -- 6000
+Begun -- http://www.begun.ru/ -- 5000
+Simpli.fi -- http://www.simpli.fi/ -- 5000
+Mindset Media -- http://www.mindset-media.com -- 5000
+Vizu -- http://www.vizu.com/index.htm -- 5000
+DoubleClick DART -- http://www.doubleclick.com -- 5000
+ForeSee -- http://www.foreseeresults.com/ -- 5000
+KissMetrics -- http://www.kissmetrics.com/ -- 5000
+Typepad Stats -- http://www.typepad.com/ -- 5000
+XTEND -- http://www.matomymedia.com/ -- 5000
+Ninja Access Analysis -- http://www.samurai-factory.jp/ -- 5000
+Rocket Fuel -- http://www.rocketfuelinc.com/ -- 5000
+UserVoice -- http://uservoice.com/ -- 5000
+Alexa Traffic Rank -- https://affiliate-program.amazon.com/ -- 5000
+RadiumOne -- http://www.radiumone.com/index.html -- 5000
+AdvertServe -- http://www.renegadeinternet.com/index.html -- 5000
+Lijit -- http://www.lijit.com/ -- 5000
+Adometry -- http://www.adometry.com/ -- 4000
+RapLeaf -- http://www.rapleaf.com/ -- 4000
+HubSpot -- http://www.hubspot.com/ -- 4000
+Datran -- http://www.datranmedia.com -- 4000
+CompeteXL -- http://www.amazon.com/ -- 4000
+Intense Debate -- http://intensedebate.com/ -- 4000
+Emediate -- http://www.emediate.biz/ -- 4000
+MyBlogLog -- http://www.mybloglog.com/ -- 4000
+Polldaddy -- http://polldaddy.com/ -- 4000
+KissInsights -- http://www.kissmetrics.com/ -- 4000
+OwnerIQ -- http://www.owneriq.com/ -- 4000
+AdJuggler -- http://adjuggler.com/ -- 4000
+BuySellAds -- http://buysellads.com/ -- 4000
+AdLantis -- http://www.adlantis.jp/ -- 3000
+Nuffnang -- http://nuffnang.com/ -- 3000
+i.ua -- http://www.i.ua/ -- 3000
+AdXpansion -- http://www.adxpansion.com/ -- 3000
+Optimizely -- http://www.optimizely.com/ -- 3000
+Zopim -- http://www.zopim.com/ -- 3000
+CPMStar -- http://www.cpmstar.com -- 3000
+Technorati Media -- http://technorati.com/ -- 3000
+Topsy -- http://topsy.com/ -- 3000
+TwitterCounter -- http://www.twittercounter.com/ -- 3000
+Project Wonderful -- http://www.projectwonderful.com/ -- 3000
+DiggThis -- http://about.digg.com/button -- 3000
+Unica -- http://www.unica.com/ -- 3000
+BrightRoll -- http://www.brightroll.com/ -- 3000
+Eloqua -- http://www.eloqua.com -- 3000
+AdultAdWorld -- http://adultadworld.com/ -- 3000
+Motigo Webstats -- http://motigo.com/ -- 3000
+Google Affiliate Network -- http://www.google.com/intl/en/ads -- 3000
+Federated Media -- http://www.federatedmedia.net -- 3000
+AdNetwork.net -- http://www.adnetwork.net/ -- 3000
+Mint -- http://haveamint.com/ -- 3000
+Fetchback -- http://www.fetchback.com/index.html -- 2000
+MarketGid -- http://www.mgid.com/ -- 2000
+Brilig -- http://www.brilig.com/ -- 2000
+Undertone Networks -- http://www.undertone.com -- 2000
+Smowtion -- http://www.smowtion.com/ -- 2000
+Blogads -- None listed -- 2000
+Zemanta -- http://www.zemanta.com/ -- 2000
+OneStat -- http://www.onestat.com/ -- 2000
+gumgum -- http://www.gumgum.com -- 2000
+phpMyVisites -- http://piwik.org/ -- 2000
+LineZing -- http://www.linezing.com/ -- 2000
+GetSatisfaction -- http://getsatisfaction.com/ -- 2000
+Adtegrity -- http://www.adtegrity.com/ -- 2000
+2leep -- http://2leep.com/ -- 2000
+Tremor Media -- http://www.tremorvideo.com/ -- 2000
+HOTWords -- http://hotwords.com/ -- 2000
+iPerceptions -- http://www.iperceptions.com/ -- 2000
+Reinvigorate -- http://www.reinvigorate.net/ -- 2000
+WebGozar -- http://webgozar.com/ -- 2000
+Tell-a-Friend -- http://tellafriend.socialtwist.com/ -- 2000
+Crowd Science -- http://www.crowdscience.com/ -- 2000
+stat4u -- http://www.stat.4u.pl/index.html -- 2000
+Quigo AdSonar -- http://advertising.aol.com/ -- 2000
+Olark -- http://www.olark.com/ -- 2000
+AddFreeStats -- http://www.3dstats.com/ -- 2000
+AWStats -- http://awstats.sourceforge.net/ -- 1000
+FreeWheel -- http://www.freewheel.tv/ -- 1000
+BinLayer -- https://binlayer.com/home.html -- 1000
+Ybrant Media -- http://www.ybrantdigital.com/ -- 1000
+ScribeFire QuickAds -- http://www.scribefire.com/ -- 1000
+Econda -- http://www.econda.de/ -- 1000
+LeadLander -- http://www.leadlander.com/ -- 1000
+NDN Analytics -- http://www.newsinc.com/ -- 1000
+JS-Kit -- http://aboutecho.com/ -- 1000
+AdBrite Notice -- http://www.adbrite.com/ -- 1000
+Meta Network -- http://www.metanetwork.com/ -- 1000
+GoDaddy Site Analytics -- http://www.godaddy.com/ -- 1000
+GoStats -- http://gostats.com/ -- 1000
+BlogHer Ads -- http://www.blogherads.com/ -- 1000
+AdShuffle -- http://www.adshuffle.com/ -- 1000
+Glam Media -- http://www.glammedia.com/ -- 1000
+HitTail -- http://www.hittail.com/ -- 1000
+Apture -- http://www.apture.com/ -- 1000
+statistics.ro -- http://www.wta.ro/ -- 1000
+Krux Digital -- http://kruxdigital.com/ -- 1000
+PopAds -- https://www.popads.net/ -- 1000
+Certifica Metric -- http://www.comscore.com/ -- 1000
+Wahoha -- http://wahoha.com/ -- 1000
+Spark Studios -- http://www.sparkstudios.com/ -- 1000
+Traffic Revenue -- http://www.trafficrevenue.net/ -- 1000
+ad4game -- http://www.ad4game.com/ -- 1000
+Nakanohito -- http://nakanohito.jp/ -- 1000
+Visible Measures -- http://www.visiblemeasures.com/ -- 1000
+NetShelter -- http://netshelter.net/ -- 1000
+Image Space Media -- http://www.imagespacemedia.com/ -- 1000
+FreakOut -- http://fout.jp/ -- 1000
+Tailsweep -- http://www.tailsweep.se/ -- 1000
+Gunggo -- http://www.gunggo.com/ -- 1000
+uCoz -- http://www.ucoz.net/ -- 1000
+OWA -- http://oewa.at/ -- 1000
+Gravity Insights -- http://www.gravity.com/ -- 1000
+Gaug.es -- http://get.gaug.es/ -- 1000
+Performable -- http://www.performable.com/ -- 1000
+RadarURL -- http://radarurl.com/ -- 1000
+AdGear -- http://adgear.com/ -- 1000
+TradeTracker -- http://www.tradetracker.com/gb -- 1000
+MyPagerank -- http://www.mypagerank.net/ -- 1000
+Connextra -- http://www.betgenius.com/products/customer-marketing/connextra/ -- 1000
+Say Media -- http://www.saymedia.com/ -- 900
+Halogen Network -- http://www.halogennetwork.com/ -- 900
+Mouseflow -- http://mouseflow.com/ -- 900
+Gorilla Nation -- http://www.gorillanation.com/ -- 900
+Ad Dynamo -- http://www.addynamo.com/ -- 800
+Adfunky -- http://adfunky.com/ -- 700
+Fox Audience Network -- http://www.foxaudiencenetwork.com/ -- 700
+ReTargeter Beacon -- http://www.retargeter.com/ -- 700
+W3Counter -- http://www.awio.com/ -- 700
+GTop -- http://www.gtopstats.com/ -- 700
+AdMeta -- http://www.admeta.com/ -- 700
+AfterDownload -- http://www.afterdownload.com/ -- 700
+AdSpeed -- http://www.adspeed.com/ -- 700
+Clickable -- http://www.clickable.com/ -- 600
+Scribol -- http://scribol.com/ -- 600
+Adap.tv -- http://www.adap.tv/ -- 600
+SiteBro -- http://www.sitebro.net/ -- 600
+MaxBounty -- http://www.maxbounty.com/ -- 600
+Pepperjam -- http://www.pepperjam.com/ -- 500
+Peer39 -- http://www.peer39.com/ -- 500
+PersianStat -- http://www.persianstat.com -- 500
+httppool -- http://www.httpool.com/ -- 500
+BlogFrog -- http://theblogfrog.com/ -- 500
+Tweetboard -- http://www.tweetboard.com -- 500
+SeeVolution -- http://seevolution.com/ -- 500
+Attracta -- http://www.attracta.com/ -- 500
+Kitara Media -- http://www.kitaramedia.com/ -- 500
+Brand.net -- http://www.brand.net/ -- 500
+PostRank -- http://www.postrank.com/ -- 500
+AdEngage -- http://www.adengage.com -- 500
+Buffer Button -- http://www.bufferapp.com/ -- 500
+TrackingSoft -- http://trackingsoft.com/index.shtml -- 500
+Adversal -- https://www.adversal.com/ -- 500
+BuzzParadise -- http://www.buzzparadise.com/ -- 500
+PunchTab -- http://www.punchtab.com/ -- 400
+Performancing Metrics -- http://performancingads.com/ -- 400
+Trumba -- http://www.trumba.com -- 400
+WebVisor -- http://webvisor.ru/ -- 400
+InternetBrands -- http://www.internetbrands.com/ -- 400
+TraceMyIP -- http://www.tracemyip.org/ -- 400
+ReachLocal -- http://www.reachlocal.com/ -- 400
+Parse.ly -- http://parse.ly/ -- 400
+ExitJunction -- https://secure.exitjunction.com/index.jsp -- 400
+Complex Media Network -- http://www.complexmedianetwork.com/ -- 400
+GlobalTakeoff -- http://www.globaltakeoff.net/ -- 400
+Intergi -- http://www.intergi.com/ -- 400
+AdReady -- http://www.adready.com/ -- 300
+Mirando -- http://mirando.de -- 300
+Travora Media -- http://www.travoramedia.com/ -- 300
+Cross Pixel Media -- http://crosspixel.net/ -- 300
+AdPerium -- http://www.adperium.com/ -- 300
+AdOnion -- http://www.adonion.com/ -- 300
+Ambient Digital -- http://www.adnetwork.vn/ -- 300
+Avalanchers -- http://www.avalanchers.com/ -- 300
+Engagd -- None listed -- 300
+AdMedia -- http://admedia.com/ -- 300
+iWiW Widgets -- http://iwiw.hu/ -- 300
+Steel House Media -- http://www.steelhouse.com/ -- 300
+iprom -- http://www.iprom.si/en -- 200
+Enquisite -- http://www.eightfoldlogic.com/ -- 200
+ActiveMeter -- http://www.activemeter.com/ -- 200
+BackType Widgets -- http://www.backtype.com/ -- 200
+SingleFeed -- https://www.singlefeed.com/ -- 200
+Financial Content -- http://www.financialcontent.com -- 200
+Etology -- http://www.etology.com/index.php -- 200
+Adorika -- http://adorika.com/ -- 200
+Spring Metrics -- http://www.springmetrics.com/ -- 200
+BlueStreak -- http://www.bluestreak.com/ -- 200
+LinkZ -- http://www.linkz.net/ -- 200
+AdMicro -- http://www.admicro.vn/ -- 200
+Giant Realm -- http://corp.giantrealm.com/ -- 200
+Cbox -- http://cbox.ws/ -- 200
+NetSeer -- http://www.netseer.com/ -- 200
+Sphere -- http://advertising.aol.com/ -- 200
+AdBuyer.com -- http://www.adbuyer.com/ -- 200
+Clove Network -- http://www.clovenetwork.com/ -- 200
+InvestingChannel -- http://www.investingchannel.com/ -- 200
+Didit Maestro -- http://www.didit.com/ -- 100
+Dashboard Ad -- http://www.dashboardad.com/ -- 100
+Carbon Ads -- http://carbonads.net/ -- 100
+expo-MAX -- http://expo-max.com/ -- 100
+AdvertiseSpace -- http://www.advertisespace.com/ -- 100
+ClickInc -- http://www.clickinc.com -- 100
+ReklamZ -- http://www.reklamz.com/ -- 100
+ClickBank ProAds -- http://www.cbproads.com/ -- 100
+AdReactor -- http://www.adreactor.com/ -- 100
+ViziSense -- http://www.komli.com/us/home/ -- 100
+AdTotal -- http://adtotal.pl/ -- 100
+AdClickMedia -- http://www.adclickmedia.com/ -- 100
+Slice Factory -- http://www.slicefactory.com/ -- 100
+NetBina -- http://new.netbina.com/default-en.aspx -- 90
+Act-On Beacon -- http://www.actonsoftware.com/ -- 80
+mediaFORGE -- http://www.mediaforge.com/ -- 80
+Tumblr -- http://www.tumblr.com/ -- 80
+LeadForce1 -- None listed -- 70
+Tumri -- http://www.tumri.com -- 60
+NetUpdater -- http://netupdater.de/ -- 60
+Navegg -- http://www.navegg.com/en -- 60
+HubSpot WebsiteGrader -- http://www.hubspot.com/ -- 50
+LiveBall -- http://www.ioninteractive.com/ -- 50
+eProof -- http://www.eproof.com/ -- 50
+Predicta -- http://predicta.com.br/ -- 40
+Observer -- http://www.observerapp.com  -- 40
+Visit Streamer -- http://www.visitstreamer.com -- 30
+Tinystat -- http://www.tinystat.ir -- 30
+AdFox -- http://adfox.ru -- 30
+Unbounce -- http://unbounce.com/ -- 20
+i-stats -- http://www.i-stats.com/ -- 20
+Beencounter -- http://www.beencounter.com/ -- 20
+Result Links -- http://www.resultlinks.com/ -- 20
+Lookery -- None listed -- 20
+Statsit -- http://www.statsit.com/ -- 10
+PrecisionClick -- http://www.precisionclick.com/ -- 10
+TLDAdserv -- http://www.tldadserv.com/ -- 10
+Buzzster -- http://www.buzzster.com/ -- 9
+ClearSearch -- http://www.clearsearchmedia.com -- 8
